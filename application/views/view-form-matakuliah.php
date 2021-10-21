@@ -4,6 +4,7 @@
 </head>
 
 <body>
+    DATA YANG DIMASUKKAN SALAH, SILAHKAN COBA LAGI!
     <center>
         <form action="<?php echo base_url('matakuliah/cetak') ?>" method="post">
     <table>
